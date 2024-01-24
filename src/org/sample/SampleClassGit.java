@@ -2,6 +2,9 @@ package org.sample;
 
 public class SampleClassGit {
 	
+	private void methGit3() {
+	System.out.println("After clone update");	
+	}
 	
 	static void methGit1() {
 		
